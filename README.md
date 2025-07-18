@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashika04" alt="rashika04" /></a> </p>
 
-- 🔭 I’m currently working on **Solace**
+- 🔭 I’m currently working on **Blissful Beats**
 
 - 🌱 I’m currently learning **SwiftUI, UIKit**
 
